@@ -17,7 +17,7 @@ Item {
     }
 
     Rectangle{//渐变色
-        rotation: -180
+        rotation: -0
         x: 0; y: 100; width: 100; height: 100
         gradient: Gradient {
             GradientStop{
